@@ -1,5 +1,5 @@
 import time
 i = 1
 while i<2:
-  print "wasting time"
+  print("wasting time")
   time.sleep(3)
